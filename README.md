@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/550e72e6-55a3-409b-938e-c1ea25095e02)
+
 En el documento titulado "Proyecto Diseño Experiencia de Usuario (1)", se encuentra registrado todo el proceso de UX llevado a cabo por los integrantes del equipo de trabajo. Este documento incluye:
 
   Atomic Design: Componentes modulares utilizados en el diseño.
